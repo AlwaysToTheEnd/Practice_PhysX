@@ -1,7 +1,3 @@
-
-#include <ctype.h>
-#include <Windows.h>
-
 #include "PxPhysicsAPI.h"
 
 #include "SnippetPrint.h"
@@ -60,10 +56,10 @@ PxRigidDynamic* CreateDynamic(const PxTransform& t, const PxGeometry& geometry, 
 int snippetMain(int, const char* const*)
 {
 #ifdef RENDER_SNIPPET
-	
+
 #else
 
 #endif
-	
+
 	return 0;
 }
