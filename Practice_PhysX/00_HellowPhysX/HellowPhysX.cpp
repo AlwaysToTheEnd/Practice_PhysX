@@ -1,3 +1,6 @@
+
+#include <Windows.h>
+
 #include "PxPhysicsAPI.h"
 
 #include "SnippetPrint.h"
