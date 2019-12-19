@@ -163,7 +163,7 @@ void KeyPress(unsigned char key, const PxTransform& camera)
 	}
 }
 
-int snippetMain(int, const char* const*)
+int SnippetMain(int, const char* const*)
 {
 	
 #ifdef RENDER_SNIPPET
