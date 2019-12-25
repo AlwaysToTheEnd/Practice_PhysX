@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_MBP", "02_MBP\02_MBP.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_SplitFetchResults", "03_SplitFetchResults\03_SplitFetchResults.vcxproj", "{9459F4C1-B17D-478C-B7E9-16FEF2BBAF99}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_CustomJoint", "04_CustomJoint\04_CustomJoint.vcxproj", "{4E5F4DD9-3394-44F4-BAD1-0C23168270B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{9459F4C1-B17D-478C-B7E9-16FEF2BBAF99}.Release|x64.Build.0 = Release|x64
 		{9459F4C1-B17D-478C-B7E9-16FEF2BBAF99}.Release|x86.ActiveCfg = Release|Win32
 		{9459F4C1-B17D-478C-B7E9-16FEF2BBAF99}.Release|x86.Build.0 = Release|Win32
+		{4E5F4DD9-3394-44F4-BAD1-0C23168270B9}.Debug|x64.ActiveCfg = Debug|x64
+		{4E5F4DD9-3394-44F4-BAD1-0C23168270B9}.Debug|x64.Build.0 = Debug|x64
+		{4E5F4DD9-3394-44F4-BAD1-0C23168270B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E5F4DD9-3394-44F4-BAD1-0C23168270B9}.Debug|x86.Build.0 = Debug|Win32
+		{4E5F4DD9-3394-44F4-BAD1-0C23168270B9}.Release|x64.ActiveCfg = Release|x64
+		{4E5F4DD9-3394-44F4-BAD1-0C23168270B9}.Release|x64.Build.0 = Release|x64
+		{4E5F4DD9-3394-44F4-BAD1-0C23168270B9}.Release|x86.ActiveCfg = Release|Win32
+		{4E5F4DD9-3394-44F4-BAD1-0C23168270B9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
